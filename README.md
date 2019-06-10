@@ -5,3 +5,6 @@ Data was retreived from Indian Movie Face database (IMFD) which is the first dat
 Total images manually scrapped from over 100 videos of around 100 indian actors were 34512. Cleaned data contained 26742 images in total which was been utilized to detect the age of the actors from the images.
 
 Classes - Young, Middle and Old
+
+Training - 19906 images
+Testing - 6636 images
